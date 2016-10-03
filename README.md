@@ -1,5 +1,7 @@
 ## aframe-look-at-component
 
+> MOVED TO [ngokevin/kframe](https://github.com/ngokevin/kframe)
+
 A component for [A-Frame](https://aframe.io) to tell an entity to face towards
 another entity or position. Uses three.js's
 [Object3D](http://threejs.org/docs/#Reference/Core/Object3D) `.lookAt()`
